@@ -1,0 +1,2 @@
+# Kali-Linux--Kernel
+Kali Linux is a Debian- derived Linux distribution and also a successor to BackTrack which is used for network penetration. Kali Linux has more than 300 built-in tools with each function. Kali Linux is also a Live CD and can be installed manually. In terms of appearance, Kali Linux has a simple and not too flashy appearance and its use is quite easy, so it is very good for beginners in penetrating the network. Besides being available on PCs, Kali Linux also makes a ROM available on Android called Kali Nethunterwhich has the same function.
